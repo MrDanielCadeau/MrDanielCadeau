@@ -1,20 +1,17 @@
-### Hello world 👋
+# Hello world 👋
 
-<!--
-**MrDanielCadeau/MrDanielCadeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!-- 
-- 🔭 I’m currently working on Laravel / Vue JS infrastructure
-- 💬 Ask me about those technologies, will be glad to help
-- 🗞 My blog about to read my web-oriented content:
- 
-- 📚 I’m also currently learning Golang for my interest
-- 🤔 So I’m looking for help with finding any Golang learning resources 
-- 👯 I’m looking to collaborate on ...
+_Nice to meet you, stranger!_
 
-- 📫 How to reach me: Feel free to send my a message directly there on Github or you can find my social media below
-(
-- 🛸 I'm known as **dalien** on many resources developer oriented web platform like StackOverFlow or CodinGame
-- ⚡ Fun fact: ...
+👨‍🎓 [School github](https://github.com/DanielCadeau)
 
- -->
+🔭 I’m currently working on **Laravel** / **Vue JS** stack   
+💬 Ask me about those technologies, will be glad to help    
+    
+📚 I’m also starting to learn Golang for my interest   
+🤔 So I’ll be glad to receive any advice for valuable Golang resources        
+   
+📫 Feel free to send my a message directly there on Github or you can find my social media below
+
+[# Linkedin](https://www.linkedin.com/in/daniel-cadeau-dev/)    
+[# Twitter](https://twitter.com/daliendev)    
+[# Mail](mailto:daniel1.cadeau@gmail.com)    
