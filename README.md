@@ -14,4 +14,4 @@ _Nice to meet you, stranger!_
 
 [# Linkedin](https://www.linkedin.com/in/daniel-cadeau-dev/)    
 [# Twitter](https://twitter.com/daliendev)    
-[# Mail](mailto:daniel1.cadeau@gmail.com)    
+[# Mail](mailto:contact@dcadeau.tech)    
